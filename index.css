@@ -1,0 +1,21 @@
+#container{
+    background-image: url(https://blog.radware.com/wp-content/uploads/2021/06/AdobeStock_164909094-scaled.jpeg);
+    height: 100vh;
+    width: cover;
+}
+#javas {
+    text-align: center;
+    margin: 50px;
+    font-size:90px;
+    font-family: 'forte';
+    color: aliceblue;
+    padding:310px;
+    text-shadow: 2px 2px 8px #FF0000;
+    cursor: pointer;
+
+     /* letter-spacing: 2px;
+    transition-property: width;
+    transition-duration: 20s; 
+    opacity: 0;*/
+
+} 
